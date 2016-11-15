@@ -1,5 +1,5 @@
 # Lester-P-Eshelman-Masonry
-Website dedicated to Lester P Eshelman Masonry in Lancaster, PA
+Respository dedicated to Lester P Eshelman Masonry in Lancaster, PA
 
 67 Peach Lane
 Lancaster, Pennsylvania
